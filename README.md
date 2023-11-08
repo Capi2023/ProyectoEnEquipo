@@ -2,7 +2,7 @@
 3.1 GPS con su protocolo NMEA
 
 
-## Integrantes del equipo
+## Integrantes del equipo "Equipo Dinamita"
 * AYLIN CASSANDRA PAYAN SAAVEDRA 20212849
 * GABRIEL STOYKO MARTINEZ GARCIA 20211808
 * EMILIANO GARCIA CORDERO 20211779
