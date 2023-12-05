@@ -16,7 +16,7 @@ Entrega Final
 # Los Servidores(Capturas)
 
 
-
+![](Imagenes/Image_20230926_142035_552.png)
 # Captura del Telegraf-Grafica Influx
 
 
