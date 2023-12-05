@@ -31,7 +31,7 @@
 # Consola
 
 
-# Conf de Influx
+# Configuración de Influx
 
 
 # Promethues.YML
