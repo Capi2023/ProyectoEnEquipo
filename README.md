@@ -19,7 +19,7 @@ Entrega Final
 
 # Captura del Telegraf-Grafica Influx
 ![Captura del Telegraf-Grafica Influx](imaganes/telegraf.png)
-![Captura del Telegraf-Grafica Influx](imaganes/comandos_telergraf_confi.png)
+![Captura del Telegraf-Grafica Influx](imaganes/comandos_telergraf_conf.png)
 
 # Prometheus
 
