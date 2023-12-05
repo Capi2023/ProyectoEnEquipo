@@ -21,8 +21,22 @@
 
 
 
-# Pruebas
+# Prometheus
 
 
 
-# Conclusión 
+# Seccion de reglas y de alertas
+
+
+# Consola
+
+
+# Conf de Influx
+
+
+# Promethues.YML
+
+
+
+
+# Simulados Circulo en Wokwi
