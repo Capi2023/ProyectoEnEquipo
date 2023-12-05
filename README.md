@@ -14,12 +14,12 @@ Entrega Final
 * SAMUEL SALAZAR DIAZ 19211729
 
 # Los Servidores(Capturas)
-
+![Captura del Telegraf-Grafica Influx](imaganes/grafana.png)
 
 
 # Captura del Telegraf-Grafica Influx
 ![Captura del Telegraf-Grafica Influx](imaganes/telegraf.png)
-
+![Captura del Telegraf-Grafica Influx](imaganes/comandos_telergraf_confi.png)
 
 # Prometheus
 
@@ -32,6 +32,8 @@ Entrega Final
 
 
 # Configuración de Influx
+![Captura del Telegraf-Grafica Influx](imaganes/influx.png)
+
 
 
 # Promethues.YML
