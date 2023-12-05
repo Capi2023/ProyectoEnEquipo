@@ -1,5 +1,5 @@
 # ProyectoEnEquipo
-3.1 GPS con su protocolo NMEA
+Entrega Final
 # Depto de Sistemas Y computación 
 # Ing. En Sistemas Computaconales
 # SISTEMAS PROGRAMABLES 
